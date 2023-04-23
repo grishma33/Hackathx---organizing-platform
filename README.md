@@ -1,1 +1,1 @@
-# Hackathx---organizing-platform
+# hack_project
